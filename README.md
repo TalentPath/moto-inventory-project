@@ -16,8 +16,8 @@ The system must enable the dealership to do the following:
 1. Search inventory for all motorcycles by type
 1. Sell a motorcycle
 
-
 ## Technical Requirements
+
 1. You must use Java and Springboot to create this api
 2. After the API is completed you may build a front end for this application using Angular or React
 3. Must keep track of all time estimates and issues in a Github Projects Kanban board 
